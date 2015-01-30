@@ -85,8 +85,11 @@ h1.title {
     
 .scores-container {
   float: right;
-  text-align: right; }
-
+  text-align: right;
+  margin-right: 70px; }
+.scores-container a{
+  padding-left: 10px;
+   }
 .score-container, .best-container {
   position: relative;
   display: inline-block;
@@ -767,4 +770,4 @@ hr {
     display: block;
     margin: 0 auto;
     margin-bottom: 20px; } }
-   
+  
